@@ -1,0 +1,6 @@
+﻿  Terminal.c
+C:\Users\johno\OneDrive\Desktop\vs\Banking_System\Banking_System\Terminal.c(20): warning C4716: 'isValidCardPAN': must return a value
+C:\Users\johno\OneDrive\Desktop\vs\Banking_System\Banking_System\Terminal.c(25): warning C4716: 'getTransactionAmount': must return a value
+C:\Users\johno\OneDrive\Desktop\vs\Banking_System\Banking_System\Terminal.c(34): warning C4716: 'setMaxAmount': must return a value
+C:\Users\johno\OneDrive\Desktop\vs\Banking_System\Banking_System\Terminal.c(30): warning C4716: 'isBelowMaxAmount': must return a value
+  Banking_System.vcxproj -> C:\Users\johno\OneDrive\Desktop\vs\Banking_System\Debug\Banking_System.exe
